@@ -2,6 +2,8 @@
 
 > Kafka protocol in *hahaha*haskell
 
+### Implemented
+
 | Message  | Api Version |
 | -- | -- |
 | Metadata | 0 |
