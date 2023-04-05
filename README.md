@@ -10,6 +10,10 @@
 
 :laughing: naive code with extensions
 
+### Example
+
+![metadata](./imgs/metadata.png)
+
 ### Refs
 
 - [A Guide To The Kafka Protocol](https://cwiki.apache.org/confluence/display/KAFKA/A+Guide+To+The+Kafka+Protocol)
